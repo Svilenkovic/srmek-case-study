@@ -4,7 +4,7 @@
 
 New public site for the Serbian Association for Quality: server-rendered PHP in front of the old Drupal back office.
 
-**[srmek.org](https://srmek.org/)** · [Srpski](README.sr.md)
+**[srmek.org](https://srmek.org/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/srmek) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ I did not move everything at once. The public pages (about 94 URLs in the sitema
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 100 | 100 | 96 | 100 |
-| Desktop | 100 | 100 | 96 | 100 |
+| Mobile | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Lighthouse, lab test of the live site, September 2026.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Organization`.
 
 ## Screenshots
 
