@@ -40,7 +40,7 @@ Nisam sve selio odjednom. Javne strane (oko 94 adrese u mapi sajta) renderuje PH
 | Telefon | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. Strukturisani podaci: `Organization`.
 
 ## Snimci ekrana
 

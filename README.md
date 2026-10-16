@@ -40,7 +40,7 @@ I did not move everything at once. The public pages (about 94 URLs in the sitema
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Organization`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. Structured data: `Organization`.
 
 ## Screenshots
 
